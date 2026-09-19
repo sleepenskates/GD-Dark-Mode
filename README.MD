@@ -7,4 +7,5 @@ A dark mode texture pack for **Geometry Dash** — Change your game for a more e
 ## Problems
 
 if i missed a texture dm me on discord: sleepenismyusername
+
 ![dc](https://github.com/sleepenskates/GD-Dark-Mode/blob/main/dc.png?raw=true)
