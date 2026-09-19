@@ -1,6 +1,6 @@
 # GD Dark Mode
 
-A dark mode texture pack for **Geometry Dash** — swap the bright, eye-searing default look for a sleek, low-light design that's easier on your eyes during those long grinding sessions.
+A dark mode texture pack for **Geometry Dash** — Change your game for a more eye friendly experience  
 
 ![Banner](https://img.shields.io/badge/GD%202.2%20Compatible-Yes-green)
 ![License](https://img.shields.io/github/license/your-username/GD-DarkMode)
