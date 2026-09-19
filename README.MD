@@ -3,7 +3,7 @@
 A dark mode texture pack for **Geometry Dash** — Change your game for a more eye friendly experience  
 
 ![Banner](https://img.shields.io/badge/GD%202.2%20Compatible-Yes-green)
-![Screenshot](https://img.shields.io/badge/GD%202.2%20Compatible-Yes-green)
+![Screenshot](https://raw.githubusercontent.com/sleepenskates/GD-Dark-Mode/refs/heads/main/screenshot.png)
 
 | Main Menu | Level Select | In-Game |
 | --- | --- | --- |
